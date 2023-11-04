@@ -6,5 +6,10 @@ zxcv
 asdf
 qweroooooo
 
+<<<<<<< HEAD
 master test
 asdf
+=======
+testbranch test
+test
+>>>>>>> testbranch
